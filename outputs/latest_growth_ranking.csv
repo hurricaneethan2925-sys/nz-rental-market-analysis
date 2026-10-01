@@ -1,0 +1,45 @@
+growth_rank,location,month,median_rent,prior_year_median,rent_yoy_pct,lodged_bonds,prior_year_bonds
+1,Central Otago District,2026-07-01,670,585,14.53,42,45
+2,Thames-Coromandel District,2026-07-01,580,520,11.54,42,48
+3,Timaru District,2026-07-01,500,450,11.11,69,81
+4,Marlborough District,2026-07-01,585,535,9.35,93,99
+5,Far North District,2026-07-01,545,500,9.0,90,114
+6,Whanganui District,2026-07-01,520,480,8.33,108,120
+7,Hauraki District,2026-07-01,595,550,8.18,39,30
+8,Invercargill City,2026-07-01,510,480,6.25,141,135
+9,Western Bay of Plenty District,2026-07-01,650,613,6.04,69,81
+10,Horowhenua District,2026-07-01,530,500,6.0,111,117
+11,Matamata-Piako District,2026-07-01,590,560,5.36,66,60
+12,Nelson City,2026-07-01,550,523,5.16,126,165
+13,Christchurch City,2026-07-01,550,530,3.77,1218,1302
+14,Ashburton District,2026-07-01,498,480,3.75,45,66
+15,Tasman District,2026-07-01,600,580,3.45,93,84
+16,Napier City,2026-07-01,645,625,3.2,126,156
+17,Gisborne District,2026-07-01,618,600,3.0,87,102
+18,Taupo District,2026-07-01,615,600,2.5,102,84
+18,Waimakariri District,2026-07-01,615,600,2.5,81,81
+19,Upper Hutt City,2026-07-01,620,605,2.48,84,93
+20,Waipa District,2026-07-01,630,615,2.44,111,114
+21,Rotorua District,2026-07-01,593,580,2.24,192,192
+22,Masterton District,2026-07-01,530,520,1.92,51,39
+23,Manawatu District,2026-07-01,580,570,1.75,54,57
+24,Whangarei District,2026-07-01,590,580,1.72,195,195
+25,South Waikato District,2026-07-01,508,500,1.6,75,81
+26,Queenstown-Lakes District,2026-07-01,800,790,1.27,201,231
+27,Hamilton City,2026-07-01,560,555,0.9,684,759
+28,Kapiti Coast District,2026-07-01,600,595,0.84,114,117
+29,Tauranga City,2026-07-01,690,685,0.73,360,408
+30,Dunedin City,2026-07-01,520,517,0.58,300,294
+31,Hastings District,2026-07-01,600,600,0.0,141,135
+31,Waikato District,2026-07-01,600,600,0.0,114,138
+31,Waitaki District,2026-07-01,475,475,0.0,30,30
+32,Selwyn District,2026-07-01,625,630,-0.79,132,156
+33,Auckland,2026-07-01,640,650,-1.54,5592,5682
+34,New Plymouth District,2026-07-01,565,575,-1.74,186,174
+35,Whakatane District,2026-07-01,560,573,-2.27,57,57
+36,Wellington City,2026-07-01,560,575,-2.61,807,843
+37,Porirua City,2026-07-01,620,640,-3.13,72,81
+38,South Taranaki District,2026-07-01,530,550,-3.64,39,48
+39,Lower Hutt City,2026-07-01,575,600,-4.17,252,282
+40,Kaipara District,2026-07-01,530,560,-5.36,45,36
+41,Palmerston North City,2026-07-01,520,550,-5.45,303,300

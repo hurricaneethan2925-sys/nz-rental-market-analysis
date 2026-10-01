@@ -1,0 +1,18 @@
+{
+  "input_rows": 26850,
+  "retained_ta_rows": 26046,
+  "excluded_aggregate_or_unallocated_rows": 804,
+  "zero_rent_values_treated_as_missing": 0,
+  "duplicate_keys": 0,
+  "missing_numeric_values": {
+    "lodged_bonds": 0,
+    "active_bonds": 0,
+    "closed_bonds": 0,
+    "median_rent": 0,
+    "geometric_mean_rent": 0
+  },
+  "min_month": "1993-02-01",
+  "max_month": "2026-07-01",
+  "source_sha256": "a50937ef88e1834c9a804215115586dd6be63468173f9e23495d868c6ca3ee3f",
+  "input_file": "mbie_monthly_ta_2026-09.csv"
+}
